@@ -43,7 +43,7 @@ this is how we declare a function
 
     let name = "put your name in here" <--- replace this line with your name, for example "Bob"
 
-we're going to assign your name to the variable name so whenever we use name it will be the value you're providing it here
+we're going to assign your name to the variable name so whenever we use `name` it will be the value you're providing it here
 
     console.log("Hi, my name is " + name);
 
