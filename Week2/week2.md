@@ -55,3 +55,15 @@ function sayHi(studentName) {
 }
 ```
 this will not work, computers are case sensitive, `studentName` and `studentname` are different.
+
+We can use multiple parameters within a function. For example
+```
+function sayHi(studentName, studentJob) {
+  let name = stuudentName;
+  let job = studentJob;
+  console.log("Hi, my name is " + name + " and I have a part time job as a " + job);
+}
+sayHi("Bob", "cashier")
+```
+This will print `Hi, my name is Bob and I have a part time job as a cashier`. When we provide values to parameters in the function call, they must match the same order as the function name. If I instead used `sayHi("cashier", "Bob")` I would instead get `Hi my name is cashier, and I have a part time job as a Bob`.
+
