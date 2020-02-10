@@ -47,9 +47,9 @@ we're going to assign your name to the variable name so whenever we use name it 
 
     console.log("Hi, my name is " + name);
 
-console.log is how we get the computer to output whatever is within the parentheses. For example console.log("Hi") will output Hi
-Use quotations when outputting text, don't use quotations when trying to output a variable. If I typed console.log("name"), it will output name,
-whereas if I typed console.log(name), it will output "Bob"
+`console.log` is how we get the computer to output whatever is within the parentheses. For example `console.log("Hi")` will output Hi
+Use quotations when outputting text, don't use quotations when trying to output a variable. If I typed `console.log("name")`, it will output name,
+whereas if I typed `console.log(name)`, it will output "Bob"
 
 `}`
 
