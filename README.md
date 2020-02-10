@@ -2,7 +2,7 @@
 
 For this coding camp we will be using Glitch, found [here](https://glitch.com/)
 
-To get started, click on `New Project`, a dropdown will appear then click on `hello-express'.
+To get started, click on `New Project`, a dropdown will appear then click on `hello-express`.
 
 To run any of the code we write into our files, they have to end with `.js`. Usually we name files
 that describes whatever we're doing in the file. If I'm writing code to make a program say Hi, I might
