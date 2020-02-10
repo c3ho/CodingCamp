@@ -9,5 +9,5 @@ that describes whatever we're doing in the file. If I'm writing code to make a p
 name my file: `sayHi.js`
 
 To Run any of the code written in a file, click on `Tools` in the bottom left corner of the page, then click on 
-`Logs`, then `Console`. A black screen should appear, next to run for example our sayHi.js file we would type,
+`Logs`, then `Console`. A black screen should appear, next to run for example our file named `sayHi.js` we would type,
 `node sayHi.js`.
