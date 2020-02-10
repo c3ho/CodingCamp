@@ -54,4 +54,4 @@ function sayHi(studentName) {
     console.log("Hi, my name is " + name);
 }
 ```
-this will not work, computers are case sensitive, studentName and studentname are different.
+this will not work, computers are case sensitive, `studentName` and `studentname` are different.
