@@ -16,7 +16,7 @@ testIf(5)
 ```
 The above function will check if the number you're passing into the parameter of the `testIf()` function is greater than 4. If it is, it will display the message `The number you provided is greater than 4`. 
 
-The other half of `if` statements are `else` statements we can optionally include. If `if` statments are code we execute only if the condition is fulfilled, `else` statements are code we execute only if the condition is not fulfilled
+The other half of `if` statements are `else` statements we can optionally include. If `if` statements are code we execute only if the condition is fulfilled, `else` statements are code we execute only if the condition is not fulfilled
 ```
 function testIf(number) {
   if (number > 4) {
@@ -27,9 +27,9 @@ function testIf(number) {
 }
 testIf(3);
 ```
-Notice how there is no condition in the else statment? Recall we don't need one because if the `if` condition is not triggered, we'll automatically execute whatever is inside `else` instead.
+Notice how there is no condition in the else statement? Recall we don't need one because if the `if` condition is not triggered, we'll automatically execute whatever is inside `else` instead.
 
-We can also write several `if` statments together like the following
+We can also write several `if` statmeents together like the following
 ```
 function testIf(number) {
   if (number > 4) {
