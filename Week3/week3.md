@@ -112,7 +112,7 @@ if (condition1) {
 }
 ```
 
-ONLY do this if we're doing an if statement within another if, don't do this if we're using separate if statements!
+ONLY do this if we're doing an if statement within another if, don't do this if we're using separate if statements!  
 Example 1
 ```
 if (condition1) {
@@ -120,7 +120,7 @@ if (condition1) {
   }
 }
 ```
-is not the same as
+is not the same as  
 Example 2
 ```
 if (condition1) {
